@@ -19,7 +19,7 @@ const Testimonials = () => {
       message:
         "This platform exceeded my expectations! The variety of courses allowed me to find exactly what I needed. The instructors are so motivating!",
       image:
-        "https://th.bing.com/th/id/OIP.GKAiW3oc2TWXVEeZAzrWOAHaJF?w=135&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "https://t4.ftcdn.net/jpg/04/98/81/37/360_F_498813770_KCXWSWs0zYkC3O8gGr7axxVcYeuEB766.jpg",
     },
     {
       id: 3,
